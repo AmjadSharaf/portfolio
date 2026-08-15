@@ -67,6 +67,7 @@ if (getLanugage=== "arabic"){
     abut.innerHTML= "About me";
     coby.innerHTML= " coby rights";
     up.innerHTML= " Up_coming certificates ";
+    
 
 }
 
